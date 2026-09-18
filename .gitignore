@@ -1,0 +1,12 @@
+data/
+imports/
+exports/
+backups/
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+*.log
+.DS_Store
+work/
