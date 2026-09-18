@@ -1,5 +1,9 @@
 # План проекта
 
+## Execution boundary
+
+Owner clarification 2026-09-18: this model prepares architecture and Vikunja work only. Another model implements the project. No application deployment, prototype execution or MapleGPT code changes in this planning task.
+
 ## Current scope
 
 Owner asked to establish Медкарта, select an OSS foundation, and use MapleGPT as the subsequent iPhone bridge. Registration and research are the current deliverables; deployment, importing real records and implementing the bridge are subsequent tasks.
