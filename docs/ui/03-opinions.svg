@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" role="img">
+<title>Медкарта — Понять данные. Сохранить контекст.. Концепт, синтетические данные.</title>
+<rect x="0" y="0" width="1440" height="1000" rx="0" fill="#F4F7F6"/>
+<rect x="0" y="0" width="220" height="1000" rx="0" fill="#FFFFFF"/>
+<path d="M220 0 L220 1000" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<rect x="28" y="32" width="35" height="35" rx="10" fill="#127D79"/>
+<text x="37" y="57" font-family="Arial, DejaVu Sans, sans-serif" font-size="27" font-weight="600" fill="#FFFFFF">+</text>
+<text x="75" y="57" font-family="Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="700" fill="#172E35">медкарта</text>
+<text x="28" y="111" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="700" fill="#6C7D82">ЛИЧНОЕ ПРОСТРАНСТВО</text>
+<text x="31" y="143" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">◈</text>
+<text x="62" y="142" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Обзор</text>
+<text x="31" y="196" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">≡</text>
+<text x="62" y="195" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Таймлайн</text>
+<text x="31" y="249" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">▤</text>
+<text x="62" y="248" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Документы</text>
+<text x="31" y="302" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">↗</text>
+<text x="62" y="301" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">ЛПУ и сообщения</text>
+<rect x="16" y="329" width="188" height="43" rx="10" fill="#E9F4F0"/>
+<text x="31" y="355" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#127D79">◇</text>
+<text x="62" y="354" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="600" fill="#127D79">Разбор и мнения</text>
+<text x="31" y="408" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">⌁</text>
+<text x="62" y="407" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Датчики</text>
+<text x="31" y="461" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">○</text>
+<text x="62" y="460" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Доступ и защита</text>
+<rect x="16" y="781" width="188" height="132" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="30" y="811" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="600" fill="#172E35">Демо-профиль</text>
+<text x="30" y="837" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">Все данные вымышлены</text>
+<text x="30" y="864" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#127D79">Доступ: только владелец</text>
+<text x="30" y="890" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#127D79">Настроить доступ →</text>
+<text x="28" y="956" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="700" fill="#6C7D82">КОНЦЕПТ · НЕ ПРОДУКТ</text>
+<rect x="220" y="0" width="1220" height="88" rx="0" fill="#FFFFFF"/>
+<path d="M220 88 L1440 88" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<rect x="252" y="24" width="410" height="40" rx="10" fill="#F4F7F6"/>
+<text x="271" y="49" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">Поиск по событиям, документам и источникам</text>
+<rect x="1092" y="30" width="150" height="28" rx="14" fill="#E9F4F0"/>
+<text x="1104" y="49" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#127D79">Личное хранилище</text>
+<rect x="1344" y="25" width="38" height="38" rx="19" fill="#E7EFEC"/>
+<text x="1355" y="50" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="700" fill="#127D79">Д</text>
+<text x="252" y="139" font-family="Arial, DejaVu Sans, sans-serif" font-size="31" font-weight="700" fill="#172E35">Понять данные. Сохранить контекст.</text>
+<text x="252" y="168" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Версии моделей и заключение специалиста рядом — с отдельным авторством и источниками.</text>
+<text x="252" y="973" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="600" fill="#6C7D82">МЕДКАРТА / PRODUCT CONCEPT</text>
+<text x="1112" y="973" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">Синтетический сценарий · 2026</text>
+<rect x="1166" y="122" width="222" height="38" rx="9" fill="#127D79"/>
+<text x="1180" y="146" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Поделиться со специалистом</text>
+<rect x="252" y="200" width="1128" height="73" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="274" y="229" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="600" fill="#172E35">Пакет: подготовка к консультации</text>
+<text x="274" y="252" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#6C7D82">Выбрано 3 документа · период 1–18 сентября · версия пакета 2</text>
+<rect x="1094" y="219" width="262" height="38" rx="9" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="1108" y="243" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="600" fill="#172E35">Проверить состав</text>
+<rect x="252" y="293" width="326" height="637" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="274" y="325" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#172E35">Источники пакета</text>
+<rect x="273" y="343" width="284" height="78" rx="10" fill="#F5F8F6"/>
+<text x="289" y="369" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="600" fill="#172E35">01  Лабораторный отчёт</text>
+<text x="289" y="396" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">PDF · 2 страницы · оригинал</text>
+<rect x="273" y="444" width="284" height="78" rx="10" fill="#F5F8F6"/>
+<text x="289" y="470" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="600" fill="#172E35">02  Дневник самочувствия</text>
+<text x="289" y="497" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">7 записей · введено человеком</text>
+<rect x="273" y="545" width="284" height="78" rx="10" fill="#F5F8F6"/>
+<text x="289" y="571" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="600" fill="#172E35">03  Сводка сна</text>
+<text x="289" y="598" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">Apple Health · 7 ночей</text>
+<text x="274" y="715" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">Каждое утверждение ссылается</text>
+<text x="274" y="738" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">на документ, страницу или период.</text>
+<rect x="274" y="792" width="260" height="28" rx="14" fill="#E9F4F0"/>
+<text x="286" y="811" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#127D79">Исходники не изменяются</text>
+<text x="274" y="899" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#127D79">Открыть все источники →</text>
+<rect x="598" y="293" width="782" height="284" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="620" y="325" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#172E35">Сопоставление мнений моделей</text>
+<rect x="1211" y="308" width="146" height="28" rx="14" fill="#FFF3DD"/>
+<text x="1223" y="327" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#A36B19">Гипотезы</text>
+<text x="620" y="356" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="600" fill="#172E35">Модель A · версия ответа 1</text>
+<text x="620" y="388" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Предлагает уточнить условия сдачи анализа</text>
+<text x="620" y="411" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">и обсудить изменения с врачом.</text>
+<rect x="620" y="438" width="174" height="28" rx="14" fill="#E9F4F0"/>
+<text x="632" y="457" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#127D79">Источник 01 · стр. 1</text>
+<path d="M982 352 L982 481" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<text x="1004" y="356" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="600" fill="#172E35">Модель B · версия ответа 1</text>
+<text x="1004" y="388" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Отмечает нехватку контекста.</text>
+<text x="1004" y="411" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Вывод откладывает.</text>
+<rect x="1004" y="438" width="166" height="28" rx="14" fill="#E9F4F0"/>
+<text x="1016" y="457" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#127D79">Источники 01, 02</text>
+<rect x="620" y="490" width="738" height="63" rx="10" fill="#FFF8EB"/>
+<text x="636" y="515" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#A36B19">Выводы расходятся. Это не заключение врача.</text>
+<text x="636" y="537" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#6C7D82">Показать различия и недостающие данные</text>
+<rect x="1255" y="503" width="82" height="38" rx="9" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="1269" y="527" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="600" fill="#172E35">В чат</text>
+<rect x="598" y="597" width="782" height="333" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="620" y="629" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#172E35">Заключение специалиста</text>
+<rect x="1138" y="613" width="218" height="28" rx="14" fill="#EDF1F8"/>
+<text x="1150" y="632" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#647DAB">Ожидает консультации</text>
+<text x="620" y="665" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#6C7D82">Заключение пока не получено.</text>
+<text x="620" y="688" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#6C7D82">Специалист увидит только выбранный пакет и оставит</text>
+<text x="620" y="711" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#6C7D82">отдельное мнение с датой, авторством и ссылками.</text>
+<rect x="620" y="748" width="738" height="67" rx="10" fill="#F5F8F6"/>
+<text x="638" y="775" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="600" fill="#172E35">Доступ на 7 дней · только чтение выбранного пакета</text>
+<text x="638" y="798" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#6C7D82">Отзыв закроет будущий доступ; скачанные копии вернуть нельзя.</text>
+<rect x="620" y="848" width="178" height="38" rx="9" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="634" y="872" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="600" fill="#172E35">Настроить доступ</text>
+<rect x="814" y="848" width="200" height="38" rx="9" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="828" y="872" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="600" fill="#172E35">Подготовить вопросы</text>
+<rect x="1030" y="848" width="328" height="38" rx="9" fill="#127D79"/>
+<text x="1044" y="872" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Выбрать специалиста</text>
+</svg>

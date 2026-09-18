@@ -2,16 +2,16 @@
 
 Status: integration design, not a working sync. Owner requested this route on 2026-09-18.
 
-## Existing work
+## Integration boundary
 
-MapleGPT is the existing native iOS client at `dimkk/maplegpt`. [Task 471](https://tasks.obol.internal/tasks/471) already plans read-only HealthKit summaries. The local uncommitted `docs/HEALTHKIT_PLAN.md` was inspected on 2026-09-18; publication pending. It requires local summaries and separately confirmed sharing. No implemented HealthKit bridge was found in the inspected application files; the checkout has unrelated in-progress changes and was not modified.
+MapleGPT is the intended native iOS bridge. The implementer must confirm the available HealthKit read layer with its maintainer. This specification is self-contained and does not require access to a private task board or checkout.
 
-Medkarta sync is an additional opt-in destination, distinct from sending a summary to chat. Reuse the HealthDataManager/query layer when available. Do not silently change the existing local-only default or route records via a conversation transcript.
+Medkarta sync is an opt-in destination, distinct from local summaries or sending a summary to chat. Reuse the HealthDataManager/query layer when available. Do not route records via conversation transcripts or overwrite concurrent MapleGPT work.
 
 ## Proposed flow
 
 1. In MapleGPT, enable “Медкарта”, show exact private destination, data types and history window; obtain OS HealthKit read authorization and explicit destination consent. No write access to Apple Health.
-2. Start with activity, heart, sleep and workouts already in task 471. Additional measurements are independently enabled later.
+2. Start with activity, heart, sleep and workouts defined for the initial read layer. Additional measurements are independently enabled later.
 3. Initial bounded history import; later incremental reads using HKAnchoredObjectQuery, with an anchor per type/query scope. HKObserverQuery can wake the app; no fixed real-time delivery guarantee.
 4. Send authenticated batches directly to the Medkarta ingestion adapter. Store credentials in Keychain. Persist a protected local queue, retain cursor only after durable server acknowledgement; retry with stable batch IDs and bounded backoff. Do not create a controller poller.
 5. Adapter validates schema, sizes, units, subject binding and source provenance; uses a verified YourPHR import path. Selected measurements can become FHIR Observations; sleep/workouts need explicit mapping preserving original meaning. Not all Apple records are one generic Observation.

@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" role="img">
+<title>Медкарта — Динамика с контекстом. Концепт, синтетические данные.</title>
+<rect x="0" y="0" width="1440" height="1000" rx="0" fill="#F4F7F6"/>
+<rect x="0" y="0" width="220" height="1000" rx="0" fill="#FFFFFF"/>
+<path d="M220 0 L220 1000" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<rect x="28" y="32" width="35" height="35" rx="10" fill="#127D79"/>
+<text x="37" y="57" font-family="Arial, DejaVu Sans, sans-serif" font-size="27" font-weight="600" fill="#FFFFFF">+</text>
+<text x="75" y="57" font-family="Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="700" fill="#172E35">медкарта</text>
+<text x="28" y="111" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="700" fill="#6C7D82">ЛИЧНОЕ ПРОСТРАНСТВО</text>
+<text x="31" y="143" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">◈</text>
+<text x="62" y="142" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Обзор</text>
+<text x="31" y="196" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">≡</text>
+<text x="62" y="195" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Таймлайн</text>
+<text x="31" y="249" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">▤</text>
+<text x="62" y="248" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Документы</text>
+<text x="31" y="302" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">↗</text>
+<text x="62" y="301" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">ЛПУ и сообщения</text>
+<text x="31" y="355" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">◇</text>
+<text x="62" y="354" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Разбор и мнения</text>
+<rect x="16" y="382" width="188" height="43" rx="10" fill="#E9F4F0"/>
+<text x="31" y="408" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#127D79">⌁</text>
+<text x="62" y="407" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="600" fill="#127D79">Датчики</text>
+<text x="31" y="461" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#6C7D82">○</text>
+<text x="62" y="460" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Доступ и защита</text>
+<rect x="16" y="781" width="188" height="132" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="30" y="811" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="600" fill="#172E35">Демо-профиль</text>
+<text x="30" y="837" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">Все данные вымышлены</text>
+<text x="30" y="864" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#127D79">Доступ: только владелец</text>
+<text x="30" y="890" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#127D79">Настроить доступ →</text>
+<text x="28" y="956" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="700" fill="#6C7D82">КОНЦЕПТ · НЕ ПРОДУКТ</text>
+<rect x="220" y="0" width="1220" height="88" rx="0" fill="#FFFFFF"/>
+<path d="M220 88 L1440 88" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<rect x="252" y="24" width="410" height="40" rx="10" fill="#F4F7F6"/>
+<text x="271" y="49" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">Поиск по событиям, документам и источникам</text>
+<rect x="1092" y="30" width="150" height="28" rx="14" fill="#E9F4F0"/>
+<text x="1104" y="49" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#127D79">Личное хранилище</text>
+<rect x="1344" y="25" width="38" height="38" rx="19" fill="#E7EFEC"/>
+<text x="1355" y="50" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="700" fill="#127D79">Д</text>
+<text x="252" y="139" font-family="Arial, DejaVu Sans, sans-serif" font-size="31" font-weight="700" fill="#172E35">Динамика с контекстом</text>
+<text x="252" y="168" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Сопоставляйте показатели, события и качество данных. Совпадение не означает причину.</text>
+<text x="252" y="973" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="600" fill="#6C7D82">МЕДКАРТА / PRODUCT CONCEPT</text>
+<text x="1112" y="973" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">Синтетический сценарий · 2026</text>
+<rect x="1190" y="122" width="198" height="38" rx="9" fill="#127D79"/>
+<text x="1204" y="146" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">+ Подключить источник</text>
+<rect x="252" y="200" width="1128" height="87" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="274" y="232" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="600" fill="#172E35">Apple Health / MapleGPT</text>
+<text x="274" y="258" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#6C7D82">Последняя синхронизация 09:42</text>
+<text x="650" y="232" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="600" fill="#172E35">Тонометр · ручной ввод</text>
+<text x="650" y="258" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#6C7D82">Источник помечен в каждой записи</text>
+<text x="1028" y="232" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="600" fill="#172E35">API других моделей</text>
+<text x="1028" y="258" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#6C7D82">Предложения требуют проверки</text>
+<rect x="252" y="309" width="764" height="392" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="274" y="341" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#172E35">Сон и субъективное самочувствие</text>
+<rect x="762" y="326" width="232" height="28" rx="14" fill="#E9F4F0"/>
+<text x="774" y="345" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#127D79">Последние 14 дней</text>
+<text x="276" y="383" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#6C7D82">Сон, часы</text>
+<text x="854" y="383" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#6C7D82">Самочувствие, 1–5</text>
+<path d="M298 410 L973 410" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<text x="275" y="415" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">9</text>
+<text x="987" y="415" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">5</text>
+<path d="M298 463 L973 463" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<text x="275" y="468" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">7</text>
+<text x="987" y="468" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">4</text>
+<path d="M298 516 L973 516" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<text x="275" y="521" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">5</text>
+<text x="987" y="521" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">3</text>
+<path d="M298 569 L973 569" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<text x="275" y="574" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">3</text>
+<text x="987" y="574" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">2</text>
+<path d="M305 470 L353 446 L401 468 L449 412 L497 437 L545 426 L593 460 L641 440 L689 420 L737 457 L785 433 L833 449 L881 418 L929 426" fill="none" stroke="#127D79" stroke-width="3" stroke-linejoin="round"/>
+<rect x="301" y="466" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="349" y="442" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="397" y="464" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="445" y="408" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="493" y="433" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="541" y="422" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="589" y="456" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="637" y="436" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="685" y="416" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="733" y="453" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="781" y="429" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="829" y="445" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="877" y="414" width="8" height="8" rx="4" fill="#127D79"/>
+<rect x="925" y="422" width="8" height="8" rx="4" fill="#127D79"/>
+<path d="M305 525 L353 500 L401 523 L449 468 L497 491 L545 466 L593 510 L641 487 L689 473 L737 506 L785 480 L833 491 L881 455 L929 475" fill="none" stroke="#879BC1" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="298" y="599" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">01 сен</text>
+<text x="483" y="599" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">05 сен</text>
+<text x="682" y="599" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">09 сен</text>
+<text x="888" y="599" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">14 сен</text>
+<path d="M449 398 L449 578" stroke="#D8AD69" stroke-width="1" fill="none"/>
+<text x="400" y="627" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="400" fill="#A36B19">Заметка: смена режима</text>
+<rect x="276" y="651" width="146" height="28" rx="14" fill="#E9F4F0"/>
+<text x="288" y="670" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#127D79">Сон · датчик</text>
+<rect x="435" y="651" width="208" height="28" rx="14" fill="#EDF1F8"/>
+<text x="447" y="670" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="600" fill="#647DAB">Самочувствие · ввод</text>
+<text x="668" y="671" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="400" fill="#6C7D82">Демо-данные, не медицинский вывод</text>
+<rect x="1036" y="309" width="344" height="196" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="1058" y="341" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#172E35">Качество и полнота</text>
+<text x="1058" y="367" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="700" fill="#172E35">12 из 14 дней</text>
+<text x="1058" y="394" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">содержат оба показателя</text>
+<text x="1058" y="430" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">Пропуски остаются пропусками.</text>
+<text x="1058" y="453" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">Они не заменяются нулями.</text>
+<rect x="1036" y="525" width="344" height="176" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="1058" y="557" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#172E35">Режим отображения</text>
+<text x="1058" y="579" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#127D79">●</text>
+<text x="1086" y="579" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#172E35">Графики и события</text>
+<text x="1058" y="620" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#127D79">○</text>
+<text x="1086" y="620" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Календарь активности</text>
+<text x="1058" y="661" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="400" fill="#127D79">○</text>
+<text x="1086" y="661" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="400" fill="#6C7D82">Карта связанных эпизодов</text>
+<rect x="252" y="721" width="1128" height="209" rx="16" fill="#FFFFFF" stroke="#E2E9E7"/>
+<text x="274" y="753" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#172E35">Как собираются данные</text>
+<text x="275" y="785" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="700" fill="#6C7D82">Источник</text>
+<text x="633" y="785" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="700" fill="#6C7D82">Разрешённый состав</text>
+<text x="1044" y="785" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" font-weight="700" fill="#6C7D82">Контроль</text>
+<path d="M274 800 L1357 800" stroke="#E2E9E7" stroke-width="1" fill="none"/>
+<text x="275" y="829" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="600" fill="#172E35">MapleGPT</text>
+<text x="633" y="829" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">Сон, активность · выбранный период</text>
+<text x="1044" y="829" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#127D79">Изменить / отключить →</text>
+<text x="275" y="877" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="600" fill="#172E35">Человек / другая модель</text>
+<text x="633" y="877" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#6C7D82">Заметки и предлагаемые наблюдения</text>
+<text x="1044" y="877" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="400" fill="#127D79">Проверить перед записью →</text>
+</svg>
